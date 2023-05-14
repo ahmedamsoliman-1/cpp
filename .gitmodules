@@ -13,3 +13,6 @@
 [submodule "cpp-different-ahmed"]
 	path = cpp-different-ahmed
 	url = https://github.com/ahmedamsoliman-1/cpp-different-ahmed.git
+[submodule "nanodegree"]
+	path = nanodegree
+	url = https://github.com/ahmedamsoliman-1/nanodegree.git
