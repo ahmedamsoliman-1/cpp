@@ -1,0 +1,15 @@
+[submodule "cpp-samples"]
+	path = cpp-samples
+	url = https://github.com/ahmedamsoliman-1/cpp-samples.git
+[submodule "cpp-ci"]
+	path = cpp-ci
+	url = https://github.com/ahmedamsoliman-1/cpp-ci.git
+[submodule "CppCoreGuidelines"]
+	path = CppCoreGuidelines
+	url = https://github.com/ahmedamsoliman-1/CppCoreGuidelines.git
+[submodule "jenkinsexample"]
+	path = jenkinsexample
+	url = https://github.com/ahmedamsoliman-1/jenkinsexample.git
+[submodule "cpp-different-ahmed"]
+	path = cpp-different-ahmed
+	url = https://github.com/ahmedamsoliman-1/cpp-different-ahmed.git
